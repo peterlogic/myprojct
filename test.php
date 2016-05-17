@@ -1,5 +1,5 @@
 basic linux commands
-
+GIT COMMANDS
 1) clear  ----- (to clear screan)
 2)  ls  ------- (list of all dir)
 3) cd dir_name -------(path of this dir)
@@ -27,7 +27,7 @@ how to add folder
 1)home/demo# git init
 2) git add .
 
-
+############################## IMP COMMANDS##################################
 
 To add a single file on Git
 	1) git init
@@ -66,5 +66,8 @@ TO edit file on same dir(after editing use these command)
 		7) git push -u origin master
 		8) user name 
 		9) pass
+		
+TO DOWNLOAD REPO
+git clone -s https://github.com/peterlogic/myprojct
 		
 	
